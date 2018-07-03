@@ -1,0 +1,2 @@
+exemplu simplu de a rula in js o functie de c
+https://tutorialzine.com/2017/06/getting-started-with-web-assembly
