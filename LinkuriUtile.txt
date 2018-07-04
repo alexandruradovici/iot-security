@@ -3,3 +3,6 @@ https://tutorialzine.com/2017/06/getting-started-with-web-assembly
 
 emscriptem face si niste js aditional super necesar
 https://github.com/WebAssembly/binaryen/issues/670
+
+pas cu pas facerea de js fara a sti inainte cum arata
+http://agniva.me/wasm/2018/05/17/wasm-hard-way.html
