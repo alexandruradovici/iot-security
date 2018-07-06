@@ -6,3 +6,9 @@ https://github.com/WebAssembly/binaryen/issues/670
 
 pas cu pas facerea de js fara a sti inainte cum arata
 http://agniva.me/wasm/2018/05/17/wasm-hard-way.html
+
+un tip isi face syscall propriu
+https://brennan.io/2016/11/14/kernel-dev-ep3/
+
+tabela syscalluri
+https://www.cs.utexas.edu/~bismith/test/syscalls/syscalls32.html
