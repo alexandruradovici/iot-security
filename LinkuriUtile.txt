@@ -16,4 +16,7 @@ https://www.cs.utexas.edu/~bismith/test/syscalls/syscalls32.html
 debug cu chrome
 https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27
 
+wasm instructiuni opcode si manual reference
+https://github.com/sunfishcode/wasm-reference-manual/blob/master/WebAssembly.md#return
+
 exista js-linux
