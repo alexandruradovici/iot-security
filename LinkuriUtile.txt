@@ -13,4 +13,7 @@ https://brennan.io/2016/11/14/kernel-dev-ep3/
 tabela syscalluri
 https://www.cs.utexas.edu/~bismith/test/syscalls/syscalls32.html
 
+debug cu chrome
+https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27
+
 exista js-linux
